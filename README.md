@@ -8,25 +8,12 @@
 
 <pre>
 <code>
-public class BootSpringBootApplication {
-  public static void main(String[] args) {
-    System.out.println("Hello, Honeymon");
-  }
+Hello, I'm hee kyeong Lee. I'm studnet who is studying SoftWare.:blush
 
-}
+
 </code>
 </pre>
 
-
-
-public class BootSpringBootApplication {
-  public static void main(String[] args) {
-    System.out.println("Hello, I'm hee kyeong Lee. I'm studnet who is studying SoftWare.");
-    System.out.println("Hello, I'm hee kyeong Lee. I'm studnet who is studying SoftWare.");
-    System.out.println("Hello, I'm hee kyeong Lee. I'm studnet who is studying SoftWare.");
-    System.out.println("Hello, I'm hee kyeong Lee. I'm studnet who is studying SoftWare.");
-  }
-}
 
 
 
