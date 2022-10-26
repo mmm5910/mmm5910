@@ -1,14 +1,14 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=ctrl%20s&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=반가워요!%20&fontSize=90)
 
 
-**** 
+
 
 <pre>
 <code>
-Hello, I'm hee kyeong Lee. I'm studnet who is studying SoftWare.:blush:
+Hello, I'm hee kyeong Lee. I'm studnet who is studying SoftWare.
 
 
 </code>
