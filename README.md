@@ -8,7 +8,7 @@
 
 <pre>
 <code>
-Hello, I'm hee kyeong Lee. I'm studnet who is studying SoftWare.:blush
+Hello, I'm hee kyeong Lee. I'm studnet who is studying SoftWare.:blush:
 
 
 </code>
