@@ -6,9 +6,11 @@
 
 
 
+
 <pre>
 <code>
-Hello, I'm hee kyeong Lee. I'm studnet who is studying SoftWare.
+Hello, I'm hee kyeong Lee. I'm studnet who is studying SoftWare. 😃
+I'm still junior, but I will be a professional developer.
 
 
 </code>
