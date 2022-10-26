@@ -4,11 +4,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=ctrl%20s&fontSize=90)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmm5910&layout=compact)](https://github.com/mmm5910/github-readme-stats)
 
 
 
 
 **Hello, I'm hee kyeong Lee. I'm studnet who is studying SoftWare.** 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmm5910&layout=compact)](https://github.com/mmm5910/github-readme-stats)
 
 
