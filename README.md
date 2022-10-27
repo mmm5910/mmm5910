@@ -26,9 +26,14 @@ I'm still junior😅, but I will be a professional developer soon.
 
 ✏️studying🗒️
 
+  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmm5910&layout=compact)](https://github.com/mmm5910/github-readme-stats)
 
+  
+[![github stats](https://github-readme-stats.vercel.app/api?username={mmm5910(string)})](https://github.com/anuraghazra/github-readme-stats)
+
+  
 
 
 </div>
