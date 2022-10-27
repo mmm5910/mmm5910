@@ -24,12 +24,12 @@ I'm still junior😅, but I will be a professional developer soon.
 
 
 ✏️studying🗒️
-<img src="https://img.shields.io/badge/자료구조-007ACC?style=flat-square&logo=&logoColor="/>
+<img src="https://img.shields.io/badge/자료구조-yellowgreen?style=flat-square&logo=&logoColor="/>
 <img src="https://img.shields.io/badge/알고리즘-007ACC?style=flat-square&logo=&logoColor="/>
 <img src="https://img.shields.io/badge/컴퓨터구조-007ACC?style=flat-square&logo=&logoColor="/>
 <img src="https://img.shields.io/badge/계산이론-007ACC?style=flat-square&logo=&logoColor="/>
 <img src="https://img.shields.io/badge/신호와%20시스템-007ACC?style=flat-square&logo=&logoColor="/>
-  
+
   
   
 
