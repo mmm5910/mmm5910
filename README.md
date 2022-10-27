@@ -1,22 +1,19 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=반갑습니다.이희경입니다..%20&fontSize=30)
-
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=반갑습니다.이희경입니다.%20&fontSize=30)
 
 
 
 <pre>
 <code>
 Hello, I'm hee kyeong Lee. I'm studnet who is studying SoftWare. 😃
-I'm still junior, but I will be a professional developer.
-
-
+I'm still junior😅, but I will be a professional developer.
 </code>
 </pre>
 
 
+💻📓 Studying 🧑‍🎓
 
 
 
