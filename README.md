@@ -1,7 +1,7 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=반갑습니다.%20이희경입니다.%20&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=반갑습니다.이희경입니다.%20&fontSize=30)
 
 
 
@@ -15,7 +15,9 @@ I'm still junior😅, but I will be a professional developer.
 
 💻Language📓
 
-<img src="https://img.shields.io/badge/JAVA-FFCA28?style=flat-square&logo=JAVA&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/Python-FFCA28?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-FFCA28?style=flat-square&logo=JAVA&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-FFCA28?style=flat-square&logo=C++&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-FFCA28?style=flat-square&logo=python&logoColor=white"/>
 
 
 🧰Tool⚒️
