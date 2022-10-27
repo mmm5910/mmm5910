@@ -18,12 +18,16 @@ I'm still junior😅, but I will be a professional developer soon.
 
  <body>   
    <div>      
-     <div class="left">* 이름 : 이희경
-* 소속 : 한림대학교 정보과학대학
-* 전공/부전공 : 콘텐츠it / 스마트iot
-* 이메일 : ram1539@naver.com</div>        
-     <div class="right">![HK's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmm5910&show_icons=true&theme=radical)</div>  
-   </div></body>
+     <div class="left">
+       * 이름 : 이희경
+       * 소속 : 한림대학교 정보과학대학
+       * 전공/부전공 : 콘텐츠it / 스마트iot
+       * 이메일 : ram1539@naver.com</div>   
+     <div class="right">
+       ![HK's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmm5910&show_icons=true&theme=radical)
+     </div>  
+   </div>
+  </body>
 
   
   
