@@ -30,7 +30,10 @@ I'm still junior😅, but I will be a professional developer soon.
   </body>
 
   
-  
+<frameset cols="200, *">	
+	<frame></frame>
+	<frame></frame>
+</frameset>
 
 
   
