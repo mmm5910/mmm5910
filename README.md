@@ -15,9 +15,7 @@ I'm still junior😅, but I will be a professional developer.
 
 💻Language📓
 
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c++&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-FFCA28?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c++&logoColor=white"/> <img src="https://img.shields.io/badge/Python-FFCA28?style=flat-square&logo=python&logoColor=white"/>
 
 
 🧰Tool⚒️
