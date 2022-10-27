@@ -23,12 +23,12 @@ I'm still junior😅, but I will be a professional developer soon.
 <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white"/> <img src="https://img.shields.io/badge/UnityEngine-9B9B9B?style=flat-square&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 
 
-✏️studying🗒️
+✏️studied..🗒️
 <img src="https://img.shields.io/badge/자료구조-yellowgreen?style=flat-square&logo=&logoColor="/>
-<img src="https://img.shields.io/badge/알고리즘-007ACC?style=flat-square&logo=&logoColor="/>
-<img src="https://img.shields.io/badge/컴퓨터구조-007ACC?style=flat-square&logo=&logoColor="/>
-<img src="https://img.shields.io/badge/계산이론-007ACC?style=flat-square&logo=&logoColor="/>
-<img src="https://img.shields.io/badge/신호와%20시스템-007ACC?style=flat-square&logo=&logoColor="/>
+<img src="https://img.shields.io/badge/알고리즘-red?style=flat-square&logo=&logoColor="/>
+<img src="https://img.shields.io/badge/컴퓨터구조-ff6984?style=flat-square&logo=&logoColor="/>
+<img src="https://img.shields.io/badge/계산이론-FC6D26?style=flat-square&logo=&logoColor="/>
+<img src="https://img.shields.io/badge/신호와%20시스템-00A98F?style=flat-square&logo=&logoColor="/>
 
   
   
