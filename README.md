@@ -8,7 +8,7 @@
 <pre>
 <code>
 Hello, I'm hee kyeong Lee. I'm studnet who is studying SoftWare. 😃
-I'm still junior😅, but I will be a professional developer.
+I'm still junior😅, but I will be a professional developer soon.
 </code>
 </pre>
 
@@ -27,3 +27,6 @@ I'm still junior😅, but I will be a professional developer.
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmmm5910%2Fhit-counter&count_bg=%23A7A5C8&title_bg=%235B5D7A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aaa5910)](https://solved.ac/aaa5910/)
