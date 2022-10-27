@@ -5,7 +5,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=반갑습니다.이희경입니다.%20&fontSize=30)
 
 
-
 <pre>
 <code>
 Hello, I'm hee kyeong Lee. I'm studnet who is studying SoftWare. 😃
@@ -25,7 +24,10 @@ I'm still junior😅, but I will be a professional developer soon.
 
 
 ✏️studying🗒️
-
+<img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=&logoColor=white"/>
+  
+  
+  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heekyeong&layout=compact)](https://github.com/mmm5910/github-readme-stats)
 
