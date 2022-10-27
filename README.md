@@ -1,7 +1,7 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=반가워요!%20&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=반가워요! 코린이 이희경입니다.%20&fontSize=30)
 
 
 
