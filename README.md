@@ -13,12 +13,12 @@ I'm still junior😅, but I will be a professional developer soon.
 </pre>
 
 
-  <div>
-    * 이름 : 이희경
-    * 소속 : 한림대학교 정보과학대학
-    * 전공/부전공 : 콘텐츠it / 스마트iot
-    * 이메일 : ram1539@naver.com
-  </div>
+
+  * 이름 : 이희
+  * 소속 : 한림대학교 정보과학대학
+  * 전공/부전공 : 콘텐츠it / 스마트iot
+  * 이메일 : ram1539@naver.com
+
 
 
   
