@@ -45,6 +45,6 @@ I'm still junior😅, but I will be a professional developer soon.
 
   
   
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?mmm5910=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmm5910)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
