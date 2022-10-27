@@ -43,4 +43,8 @@ I'm still junior😅, but I will be a professional developer soon.
   
 <img src="https://img.shields.io/badge/자료구조-yellowgreen?style=flat-square&logo=&logoColor="/> <img src="https://img.shields.io/badge/알고리즘-red?style=flat-square&logo=&logoColor="/> <img src="https://img.shields.io/badge/컴퓨터구조-ff6984?style=flat-square&logo=&logoColor="/> <img src="https://img.shields.io/badge/계산이론-FC6D26?style=flat-square&logo=&logoColor="/> <img src="https://img.shields.io/badge/신호와%20시스템-00A98F?style=flat-square&logo=&logoColor="/>
 
+  
+  
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?mmm5910=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) 
+  
 </div>
