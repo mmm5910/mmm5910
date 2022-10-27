@@ -12,12 +12,23 @@ I'm still junior😅, but I will be a professional developer soon.
 </code>
 </pre>
 
-* 이름 : 이희경
-* 소속 : 한림대학교 정보과학대학
-* 전공/부전공 : 콘텐츠it / 스마트iot
+  
   
 
-![HK's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmm5910&show_icons=true&theme=radical)
+
+ <body>   
+   <div>      
+     <div class="left">* 이름 : 이희경
+* 소속 : 한림대학교 정보과학대학
+* 전공/부전공 : 콘텐츠it / 스마트iot
+* 이메일 : ram1539@naver.com</div>        
+     <div class="right">![HK's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmm5910&show_icons=true&theme=radical)</div>  
+   </div></body>
+
+  
+  
+
+
   
   
   
@@ -34,11 +45,6 @@ I'm still junior😅, but I will be a professional developer soon.
 ✏️studying🗒️
   
 <img src="https://img.shields.io/badge/자료구조-yellowgreen?style=flat-square&logo=&logoColor="/> <img src="https://img.shields.io/badge/알고리즘-red?style=flat-square&logo=&logoColor="/> <img src="https://img.shields.io/badge/컴퓨터구조-ff6984?style=flat-square&logo=&logoColor="/> <img src="https://img.shields.io/badge/계산이론-FC6D26?style=flat-square&logo=&logoColor="/> <img src="https://img.shields.io/badge/신호와%20시스템-00A98F?style=flat-square&logo=&logoColor="/>
-
-  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heekyeong&layout=compact)](https://github.com/mmm5910/github-readme-stats)
-
 
 
 </div>
