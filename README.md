@@ -16,8 +16,8 @@ I'm still junior😅, but I will be a professional developer soon.
 * 소속 : 한림대학교 정보과학대학
 * 전공/부전공 : 콘텐츠it / 스마트iot
   
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-soohyeon&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
+![HK's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmm5910&show_icons=true&theme=radical)
   
   
   
